@@ -1,1 +1,2 @@
 # Inventory-Management-System
+This C++ program manages an inventory system using a struct Product to store product details such as name, price, and quantity. It provides functionality to add products, display the current inventory, and calculate the total value of all products based on their prices and quantities. The program offers a user-friendly menu-driven interface for interactive operations. It's suitable for learning basic data structuring and handling in C++.
